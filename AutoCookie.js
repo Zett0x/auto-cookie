@@ -139,7 +139,7 @@ const init =(minutos,...productos)=>{
 
     goldenFinderIntervalId= setInterval(() => {
         checkGoldenCookie();
-    }, 3000);
+    }, 6000);
     
     
 }
