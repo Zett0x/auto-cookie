@@ -17,7 +17,7 @@ En el ejemplo anterior se iniciará AutoCookie, realizando compras cada 7 minuto
 de izquierda a derecha (mas a la izquierda mas prioridad, mas comprará de ese producto si es posible) por lo que comprará más
 cantidad del producto numero 7 que del numero 8 y así.
 
-PRODUCTOS Y IDENTIFICADORES:
+PRODUCTOS E IDENTIFICADORES:
 CURSOR: 0
 GRANDMA: 1
 FARM: 2
