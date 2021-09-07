@@ -41,6 +41,10 @@ const getMoney=()=>{
 
         
     }
+    if(divCookies.includes("trillion"))
+    {
+        return (+divCookies.replace('trillion',''))*1000000000000;
+    }
 
     return (+divCookies.replace('million',''))*1000000;
 
