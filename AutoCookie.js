@@ -67,7 +67,7 @@ const getProductPrice=(numProduct)=>{
     }
     if(divPrice.includes("trillion"))
     {
-        return(+divPrice.replace("trillion",''))*1000000000;
+        return(+divPrice.replace("trillion",''))*1000000000000;
     }
 
     
