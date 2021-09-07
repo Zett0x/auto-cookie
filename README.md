@@ -29,3 +29,11 @@ WIZARD TOWER: 7
 SHIPMENT: 8
 Alchemy lab : 9
 Portal : 10
+
+FUNCIÓN CLICKERCOOKIE
+
+Si quieres crear tantos cursor como prefieras, simplemente realiza el paso 3, ve a la consola y escribe clickerCookie(numeroCursors)
+donde numeroCursors son el número de cursors que quieres que cree. (Si te pasas de cifra crasheará el navegador, ve testeando según tu preferencia).
+Ejemplo de uso:
+clickerCookie(15000); 
+Se crearán 15000 cursors que irán clicando a la galleta.
