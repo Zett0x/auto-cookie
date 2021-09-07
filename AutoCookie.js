@@ -93,7 +93,7 @@ const buyProduct=(numProduct,prioridad)=>{
 
             
             
-            console.log(`Producto: ${getProductName(numProduct)} comprado, cantidad: ${money/precio} !`);
+            console.log(`Producto: ${getProductName(numProduct)} comprado, cantidad: ${Math.trunc(money/precio)} !`);
 
         }
         else{
